@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi my name is Elise
 
-<!--
-**EFV0804/EFV0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a graphics programmer, VFX pipeline developper, and sometimes a gameplay programmer.
+I love plants and Star Trek.
 
-Here are some ideas to get you started:
+### 🧰 [pipeline work](https://github.com/EFV0804/pipeline)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+### 🪩  [shaders](https://github.com/EFV0804/shaders)
+
+
+### 🕹 Some games I made with wonderful people
+
+[The Great Puppini](https://hzaatar.itch.io/the-great-puppini)
+
+[This is fine](https://galykin.itch.io/this-is-fine)
+
+[Rooting 4 you](https://gorglath.itch.io/rooting-for-you)
+
+
+
+#### 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EFV0804&layout=compact&theme=dark"/>
